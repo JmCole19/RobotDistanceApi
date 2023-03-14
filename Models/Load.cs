@@ -2,8 +2,8 @@
 {
     public class Load
     {
-        string loadId { get; set; }
-        int x { get; set; }
-        int y { get; set; }
+        public string loadId { get; set; }
+        public int x { get; set; }
+        public int y { get; set; }
     }
 }
